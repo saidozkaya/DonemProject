@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DönemProjesi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DönemProjesi_jar</output-path>
+    <root id="archive" name="DönemProjesi.jar">
+      <element id="module-output" name="DönemProjesi" />
+    </root>
+  </artifact>
+</component>
