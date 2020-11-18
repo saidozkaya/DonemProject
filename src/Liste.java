@@ -48,6 +48,7 @@ public class Liste extends Abstract {
               String ss= br.readLine();
               //Metin belgesindeki, her satır başı metin belgesinden listeye eklendi
                 liste.addElement(ss);
+                  sınavlarıGörüntüleButton.setVisible(false);
             }
             list1.setModel(liste);
         }catch (Exception e){
